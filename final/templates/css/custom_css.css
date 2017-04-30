@@ -1,0 +1,17 @@
+.top_element {
+	margin-top:2.5%;
+}
+
+.navbar-hover {
+	transition: background-color 0.5s ease;
+}
+
+.navbar-hover:hover {
+	background-color: red;
+}
+
+.header_tag {
+	padding: 20px;
+	background-color: #f8f8f8;
+	border-radius:5px;
+}
